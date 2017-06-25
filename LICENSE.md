@@ -1,1 +1,1 @@
-&copy; The Enso Project &ndash 2017
+&copy; The Enso Project &ndash; 2017
